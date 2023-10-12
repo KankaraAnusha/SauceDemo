@@ -1,1 +1,1 @@
-# SauceDemo
+# SauceDemo Login Page Test Script
